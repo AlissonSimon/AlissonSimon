@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @AlissonSimon
-- 👋 Olá, eu sou @AlissonSimon
-- 👀 I’m interested in studying and keeping upgrading my skills at work
-- 👀 Eu estou interessado em estudar e continuar evoluindo minhas habilidades no trabalho
-- 🌱 I’m currently learning about HTML, CSS and AutoCAD
-- 🌱 Eu estou atualmente aprendendo sobre HTML, CSS e AutoCAD
-- 📫 You can reach me searching in Instagram @simon.alisson, X @a_simon10 or email alissonsimon21@gmail.com
-- 📫 Você pode me encontrar procurando no Instagram @simon.alisson ou X @a_simon10, ou e-mail alissonsimon21@gmail.com
+# Olá, me chamo Alisson!
+## Bem vindo ao meu perfil do Github 👋
+
+- 🧑 Tenho 19 anos;
+- 👜 Atualmente trabalho como Auxiliar de Processos em uma empresa de Software para Intralogística;
+- 👀 Estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas;
+- 🌱 Buscando desenvolver-me com as ferramentas essenciais para desenvolvedores e com as linguagens do Front-end através da Alura;
+- 📫 Você pode entrar em contato comigo através do Instagram @a_simon10 ou e-mail alissonsimon21@gmail.com;
 
 <!---
 AlissonSimon/AlissonSimon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
