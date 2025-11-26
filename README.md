@@ -4,7 +4,7 @@
 - 🧑 Tenho 20 anos;
 - 👜 Atualmente trabalho como Assistente de Processos em uma empresa de Software para Intralogística;
 - 👀 Estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas;
-- 🌱 Buscando desenvolver-me com as ferramentas essenciais para desenvolvedores e com as linguagens do Front-end através de cursos;
+- 🌱 Buscando desenvolver-me com as ferramentas essenciais para desenvolvedores e com as linguagens do Back-end através de cursos;
 - 📫 Você pode entrar em contato comigo através do Instagram, Linkedin ou e-mail.
 
 ## Ferramentas e Tecnologias
