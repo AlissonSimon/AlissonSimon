@@ -1,12 +1,12 @@
-# Olá, me chamo Alisson!
-## Bem vindo ao meu perfil do Github 👋
+# Hello, my name is Alisson!
+## Welcome to my Github profile 👋
 
-- 🧑 Tenho 21 anos;
-- 👀 Estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas;
-- 🌱 Buscando desenvolver-me com as ferramentas essenciais para desenvolvedores e com as linguagens do Back-end através de cursos;
-- 📫 Você pode entrar em contato comigo através do Instagram, Linkedin ou e-mail.
+- 🧑 I'm 21yo;
+- 🎓 I graduated with a Technologist degree in Systems Analysis and Development;
+- 🌱 Working on developing myself with essential developer tools and the Back-end world through courses and docs;
+- 📫 You can reach me through Instagram, Linkedin or e-mail.
 
-## Ferramentas e Tecnologias
+## Tools and Technologies
 
 <table>
   <tr>
@@ -23,7 +23,7 @@
   </tr>
 </table>   
 
-## Contatos:
+## Get in Touch:
 
 <div>
 <a href="https://instagram.com/simon.alisson" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
