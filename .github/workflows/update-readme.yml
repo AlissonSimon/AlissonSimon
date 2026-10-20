@@ -17,5 +17,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG:
+          COMMIT_MSG: "Update profile recent activity"
           MAX_LINES: 15
