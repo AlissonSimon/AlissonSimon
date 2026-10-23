@@ -4,7 +4,7 @@ I’m a backend developer working with Java, Spring, and Quarkus. I enjoy contri
 
 ## 👨 About Me
 
-- 🇧🇷 Living in Brazil;
+- 🇧🇷 I'm from Brazil;
 - 📚 I like to learn new things;
 - 🎬 I'm passionate about the seventh art;
 - 🎮 Gamer in my free time.
