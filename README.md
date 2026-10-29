@@ -45,18 +45,18 @@ I’m a backend developer working with Java, Spring, and Quarkus. I enjoy contri
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1181](https://github.com/quarkiverse/quarkus-google-cloud-services/pull/1181) in [quarkiverse/quarkus-google-cloud-services](https://github.com/quarkiverse/quarkus-google-cloud-services)
-2. 🗣 Commented on [#65](https://github.com/quarkiverse/quarkus-google-cloud-services/issues/65#issuecomment-6287895735) in [quarkiverse/quarkus-google-cloud-services](https://github.com/quarkiverse/quarkus-google-cloud-services)
-3. 🗣 Commented on [#105](https://github.com/quarkiverse/quarkus-google-cloud-services/issues/105#issuecomment-6165747338) in [quarkiverse/quarkus-google-cloud-services](https://github.com/quarkiverse/quarkus-google-cloud-services)
-4. 🎉 Merged PR [#1169](https://github.com/quarkiverse/quarkus-google-cloud-services/pull/1169) in [quarkiverse/quarkus-google-cloud-services](https://github.com/quarkiverse/quarkus-google-cloud-services)
-5. 💪 Opened PR [#1169](https://github.com/quarkiverse/quarkus-google-cloud-services/pull/1169) in [quarkiverse/quarkus-google-cloud-services](https://github.com/quarkiverse/quarkus-google-cloud-services)
-6. 🗣 Commented on [#127](https://github.com/quarkiverse/quarkus-google-cloud-services/issues/127#issuecomment-6096283903) in [quarkiverse/quarkus-google-cloud-services](https://github.com/quarkiverse/quarkus-google-cloud-services)
-7. 🗣 Commented on [#1148](https://github.com/quarkiverse/quarkus-google-cloud-services/issues/1148#issuecomment-6077255496) in [quarkiverse/quarkus-google-cloud-services](https://github.com/quarkiverse/quarkus-google-cloud-services)
-8. 🗣 Commented on [#1148](https://github.com/quarkiverse/quarkus-google-cloud-services/issues/1148#issuecomment-6071132638) in [quarkiverse/quarkus-google-cloud-services](https://github.com/quarkiverse/quarkus-google-cloud-services)
-9. 💪 Opened PR [#1161](https://github.com/quarkiverse/quarkus-google-cloud-services/pull/1161) in [quarkiverse/quarkus-google-cloud-services](https://github.com/quarkiverse/quarkus-google-cloud-services)
-10. 🗣 Commented on [#18](https://github.com/quarkiverse/quarkus-google-cloud-services/issues/18#issuecomment-5971165381) in [quarkiverse/quarkus-google-cloud-services](https://github.com/quarkiverse/quarkus-google-cloud-services)
-11. 🎉 Merged PR [#1146](https://github.com/quarkiverse/quarkus-google-cloud-services/pull/1146) in [quarkiverse/quarkus-google-cloud-services](https://github.com/quarkiverse/quarkus-google-cloud-services)
-12. 🗣 Commented on [#18](https://github.com/quarkiverse/quarkus-google-cloud-services/issues/18#issuecomment-5907891310) in [quarkiverse/quarkus-google-cloud-services](https://github.com/quarkiverse/quarkus-google-cloud-services)
+1. ❗ Opened issue [#1187](https://github.com/quarkiverse/quarkus-google-cloud-services/issues/1187) in [quarkiverse/quarkus-google-cloud-services](https://github.com/quarkiverse/quarkus-google-cloud-services)
+2. 💪 Opened PR [#1181](https://github.com/quarkiverse/quarkus-google-cloud-services/pull/1181) in [quarkiverse/quarkus-google-cloud-services](https://github.com/quarkiverse/quarkus-google-cloud-services)
+3. 🗣 Commented on [#65](https://github.com/quarkiverse/quarkus-google-cloud-services/issues/65#issuecomment-6287895735) in [quarkiverse/quarkus-google-cloud-services](https://github.com/quarkiverse/quarkus-google-cloud-services)
+4. 🗣 Commented on [#105](https://github.com/quarkiverse/quarkus-google-cloud-services/issues/105#issuecomment-6165747338) in [quarkiverse/quarkus-google-cloud-services](https://github.com/quarkiverse/quarkus-google-cloud-services)
+5. 🎉 Merged PR [#1169](https://github.com/quarkiverse/quarkus-google-cloud-services/pull/1169) in [quarkiverse/quarkus-google-cloud-services](https://github.com/quarkiverse/quarkus-google-cloud-services)
+6. 💪 Opened PR [#1169](https://github.com/quarkiverse/quarkus-google-cloud-services/pull/1169) in [quarkiverse/quarkus-google-cloud-services](https://github.com/quarkiverse/quarkus-google-cloud-services)
+7. 🗣 Commented on [#127](https://github.com/quarkiverse/quarkus-google-cloud-services/issues/127#issuecomment-6096283903) in [quarkiverse/quarkus-google-cloud-services](https://github.com/quarkiverse/quarkus-google-cloud-services)
+8. 🗣 Commented on [#1148](https://github.com/quarkiverse/quarkus-google-cloud-services/issues/1148#issuecomment-6077255496) in [quarkiverse/quarkus-google-cloud-services](https://github.com/quarkiverse/quarkus-google-cloud-services)
+9. 🗣 Commented on [#1148](https://github.com/quarkiverse/quarkus-google-cloud-services/issues/1148#issuecomment-6071132638) in [quarkiverse/quarkus-google-cloud-services](https://github.com/quarkiverse/quarkus-google-cloud-services)
+10. 💪 Opened PR [#1161](https://github.com/quarkiverse/quarkus-google-cloud-services/pull/1161) in [quarkiverse/quarkus-google-cloud-services](https://github.com/quarkiverse/quarkus-google-cloud-services)
+11. 🗣 Commented on [#18](https://github.com/quarkiverse/quarkus-google-cloud-services/issues/18#issuecomment-5971165381) in [quarkiverse/quarkus-google-cloud-services](https://github.com/quarkiverse/quarkus-google-cloud-services)
+12. 🎉 Merged PR [#1146](https://github.com/quarkiverse/quarkus-google-cloud-services/pull/1146) in [quarkiverse/quarkus-google-cloud-services](https://github.com/quarkiverse/quarkus-google-cloud-services)
 <!--END_SECTION:activity-->
 
 ## 📫 Get in Touch
